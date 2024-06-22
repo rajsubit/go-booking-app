@@ -1,0 +1,6 @@
+- main.go
+	- standard name for main file
+- go mod init go-booking-app
+	- initiatesa a module path in the project / folder
+- import package
+- declare entry point
